@@ -102,5 +102,4 @@ ENV/
 
 # dataset
 *.csv
-*.png
 *.xlsx
